@@ -1,0 +1,47 @@
+Honey Valley Website
+
+COLORS
+1. Dark Brown - #4a3933
+2. Yellow - #f0a500
+3. Orange - #e45826
+4. Text Color - #444444
+5. Background Color - #e6d5b8
+6. Grey Background Color - #f8f5f1
+
+FONT FAMILY
+LATO -Imported from Google Fonts
+default size 18px and weigh 300
+
+HEADING TAGS H1- H6
+Fira Sans-Imported from Google Fonts
+Font weight -> 700
+
+
+ANCHOR TAGS
+Fira Sans- Size 16px
+weight 600
+
+
+LOGO
+dimensions 48px by 56px (Width x height) ---> DONE
+
+
+Icons
+The Fontawesome CSS library should be used for all icons in the design.
+
+Navigation ---> DONE
+On hover, the menu item in the navigation should be the prescribed solid orange color above and text should be white.
+
+Testimonial Section
+Each block found in the testimonial section should be highlighted orange on hover
+and the text changes to white.
+
+Home
+Products
+About Us
+Contact Us
+Cart (0)
+
+
+text wrapping with image
+https://www.youtube.com/watch?v=5Uz33vo4GoQ

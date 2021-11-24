@@ -1,0 +1,24 @@
+Netlify link
+
+github 
+
+href
+Target Audience
+
+someone who has money 
+
+make note of the currency
+
+FONT
+
+choose the px
+then choose the 
+
+select the import option and copy
+
+put it at the top of the css sheet 
+
+highlight the css rules and copy it to everything that has text 
+
+put the font -family in the body
+
